@@ -1,2 +1,2 @@
-config:
-  aws:region: us-east-1
+environment:
+  - sheehan-lab08-AWS/dev
